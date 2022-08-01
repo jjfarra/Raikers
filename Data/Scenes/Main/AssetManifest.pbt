@@ -44,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10394034606556021894
+  Name: "Humanoid 2 Rig"
+  PlatformAssetType: 25
+  PrimaryAsset {
+    AssetType: "SkeletonAssetRef"
+    AssetId: "npc_guy_wireframe_001_ref"
+  }
+}
+Assets {
   Id: 8510680596773381150
   Name: "Skeleton Wolf Mob"
   PlatformAssetType: 26
@@ -59,5 +68,14 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "CORESKY_Sky"
+  }
+}
+Assets {
+  Id: 3310893431551319565
+  Name: "Humanoid 2 Drahkzen"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_guy_head_fantasy_004_ref"
   }
 }
