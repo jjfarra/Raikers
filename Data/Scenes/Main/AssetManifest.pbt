@@ -62,15 +62,6 @@ Assets {
   }
 }
 Assets {
-  Id: 17600840205335043102
-  Name: "Japanese Temple Pillar 01 - Base 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_pillar_001_base_01_ref"
-  }
-}
-Assets {
   Id: 17600359723065005811
   Name: "Whitebox Wall 01"
   PlatformAssetType: 1
@@ -89,33 +80,6 @@ Assets {
   }
 }
 Assets {
-  Id: 17242414774076535905
-  Name: "Japanese Temple Roof 01 - Eaves 01 Half"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_eaves_01_half_ref"
-  }
-}
-Assets {
-  Id: 17123179268718708718
-  Name: "Japanese Temple Wall 01 - Half 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_wall_001_half_01_ref"
-  }
-}
-Assets {
-  Id: 16870058133299628278
-  Name: "Japanese Temple Door 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_door_001_ref"
-  }
-}
-Assets {
   Id: 16751224094635422494
   Name: "Rock 01"
   PlatformAssetType: 1
@@ -131,15 +95,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_railing_stringer_bridge_end_001_ref"
-  }
-}
-Assets {
-  Id: 16615061049325523054
-  Name: "Japanese Temple Torii Gate Crossbeam 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_torii_crossbeam_001_ref"
   }
 }
 Assets {
@@ -197,15 +152,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15878959024568282508
-  Name: "Japanese Temple Window 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_window_001_ref"
-  }
-}
-Assets {
   Id: 15071749801987622633
   Name: "Japanese Temple Roof 01 - Cap 01 Half"
   PlatformAssetType: 1
@@ -221,15 +167,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_floor_002_4m"
-  }
-}
-Assets {
-  Id: 14859543017485361045
-  Name: "Japanese Temple Window Frame 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_window_frame_001_ref"
   }
 }
 Assets {
@@ -287,15 +224,6 @@ Assets {
   }
 }
 Assets {
-  Id: 13868889675930197036
-  Name: "Fantasy Castle Floor 02 - Corner 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_floor_002_4m_corner_001"
-  }
-}
-Assets {
   Id: 13815240256137783830
   Name: "Japanese Temple Wall Large 02 Corner"
   PlatformAssetType: 1
@@ -323,30 +251,12 @@ Assets {
   }
 }
 Assets {
-  Id: 13708031376687675132
-  Name: "Japanese Temple Pillar 01 - Mid 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_pillar_001_mid_01_ref"
-  }
-}
-Assets {
   Id: 13631905711890566392
   Name: "Japanese Temple Wall Large 02 - Gate 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_lrg_002_gate_01_ref"
-  }
-}
-Assets {
-  Id: 13385452079565467522
-  Name: "Japanese Temple Wall 01 - Doorway 01 Half"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_wall_001_door_01_half_ref"
   }
 }
 Assets {
@@ -467,24 +377,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11681883071417765186
-  Name: "Japanese Temple Roof Peak 02 - End 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_peak_002_end_01_ref"
-  }
-}
-Assets {
-  Id: 11410181570375320289
-  Name: "Japanese Temple Wall 01 - Window 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_wall_001_win_01_ref"
-  }
-}
-Assets {
   Id: 11333471945671690185
   Name: "Japanese Temple Wall Gate Crossbeam 01"
   PlatformAssetType: 1
@@ -536,15 +428,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_foundation_001_end_ref"
-  }
-}
-Assets {
-  Id: 9931734081222750799
-  Name: "Japanese Temple Roof Ornament 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_orn_02_ref"
   }
 }
 Assets {
@@ -719,30 +602,12 @@ Assets {
   }
 }
 Assets {
-  Id: 7879807112657890156
-  Name: "Japanese Temple Pillar 01 - Mid 01 150cm"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_pillar_001_mid_01_150cm_ref"
-  }
-}
-Assets {
   Id: 7875193025752714969
   Name: "Gravel Raked 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_gravel_001_uv"
-  }
-}
-Assets {
-  Id: 7820774133789254153
-  Name: "Japanese Temple Pillar 02 - Top 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_pillar_002_top_01_ref_ref"
   }
 }
 Assets {
@@ -779,6 +644,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "forest-floor_001"
+  }
+}
+Assets {
+  Id: 6702927955089856238
+  Name: "Fantasy Castle Floor 01 - Curved 4m "
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_fan_cas_floor_curve_001"
   }
 }
 Assets {
@@ -881,15 +755,6 @@ Assets {
   }
 }
 Assets {
-  Id: 4231209076001808176
-  Name: "Japanese Temple Roof 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_002_ref"
-  }
-}
-Assets {
   Id: 4081365065502342237
   Name: "Japanese Temple Pillar 01 - Mid 01"
   PlatformAssetType: 1
@@ -926,15 +791,6 @@ Assets {
   }
 }
 Assets {
-  Id: 3670288767833558928
-  Name: "Japanese Temple Roof 01 - Eaves 01 Corner Out"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_eaves_01_co_ref"
-  }
-}
-Assets {
   Id: 3623021996219824963
   Name: "Japanese Temple Wall 01 - 150cm 01"
   PlatformAssetType: 1
@@ -959,15 +815,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_pillar_001_base_01_ref"
-  }
-}
-Assets {
-  Id: 3488941177035853731
-  Name: "Japanese Temple Railing 01 - Straight 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_railing_straight_001_ref"
   }
 }
 Assets {
@@ -998,48 +845,12 @@ Assets {
   }
 }
 Assets {
-  Id: 3001275623076361156
-  Name: "Japanese Temple Roof Ornament 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_orn_01_ref"
-  }
-}
-Assets {
-  Id: 2976648601691688554
-  Name: "Japanese Temple Foundation 02 - Wedge"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_foundation_002_wedge_ref"
-  }
-}
-Assets {
-  Id: 2676750200352742578
-  Name: "Japanese Temple Roof 01 - Eaves Cap 01 Corner"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_eaves_01_co_cap_ref"
-  }
-}
-Assets {
   Id: 2570650409842592255
   Name: "Japanese Temple Pillar 01 - Mid 01 150cm"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_pillar_001_mid_01_150cm_ref"
-  }
-}
-Assets {
-  Id: 2451360824092825724
-  Name: "Fantasy Castle Floor 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_fan_cas_floor_002_4m"
   }
 }
 Assets {
@@ -1058,15 +869,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_foundation_001_corner_ref"
-  }
-}
-Assets {
-  Id: 2103224958957402459
-  Name: "Ring - Thick"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_torus_005"
   }
 }
 Assets {
@@ -1094,15 +896,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_pillar_001_base_01_ref"
-  }
-}
-Assets {
-  Id: 1398235936726587414
-  Name: "Japanese Temple Roof 01 - Cap 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_cap_01_ref"
   }
 }
 Assets {
@@ -1142,24 +935,6 @@ Assets {
   }
 }
 Assets {
-  Id: 765042598571732787
-  Name: "Japanese Temple Wall Gate Crossbeam 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_wall_lrg_002_gate_detail1_ref"
-  }
-}
-Assets {
-  Id: 711604588467143618
-  Name: "Japanese Temple Wall 01 "
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_wall_001_ref"
-  }
-}
-Assets {
   Id: 400998278155620177
   Name: "Japanese Temple Roof Spire 01 - Base"
   PlatformAssetType: 1
@@ -1175,14 +950,5 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_railing_bridge_end_001_ref"
-  }
-}
-Assets {
-  Id: 147083312759040837
-  Name: "Japanese Temple Roof Ornament 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ts_jpn_tem_roof_001_orn_03_ref"
   }
 }
