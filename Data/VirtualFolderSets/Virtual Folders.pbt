@@ -56,5 +56,24 @@ Assets {
       VirtualFolderPath: "Example"
       PlatformAssetType: 3
     }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      VirtualFolderPath: "Melee"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      VirtualFolderPath: "Melee"
+      VirtualFolderPath: "Dependecies"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Equipment"
+      PlatformAssetType: 3
+    }
   }
 }

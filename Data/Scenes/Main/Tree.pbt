@@ -35,6 +35,12 @@ Objects {
   ChildIds: 9602792241692204881
   ChildIds: 16985225362169931376
   ChildIds: 946751036009582441
+  ChildIds: 13105351697665637477
+  ChildIds: 8397254192037727151
+  ChildIds: 4969663025279426798
+  ChildIds: 343562879261897759
+  ChildIds: 5995304175975499530
+  ChildIds: 6342468787562601777
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -52,6 +58,221 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 6342468787562601777
+  Name: "Static Player Equipment"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16657464430720987128
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Static Player Equipment"
+        }
+        Overrides {
+          Name: "cs:EquipmentTemplate"
+          AssetReference {
+            Id: 14989805911807465549
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8107525045052713992
+    }
+  }
+}
+Objects {
+  Id: 5995304175975499530
+  Name: "Combat Dependencies"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8014650375856875642
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Combat Dependencies"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1878481433222988621
+    }
+  }
+}
+Objects {
+  Id: 343562879261897759
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2250
+            Y: 7250
+            Z: 50
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 4969663025279426798
+  Name: "RPG Skeleton - Marksman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Marksman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2600
+            Y: 7650
+            Z: 50
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2936960526737165449
+    }
+  }
+}
+Objects {
+  Id: 8397254192037727151
+  Name: "UI Container"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Control {
+    RenderTransformPivot {
+      Anchor {
+        Value: "mc:euianchor:middlecenter"
+      }
+    }
+    Canvas {
+      ContentType {
+        Value: "mc:ecanvascontenttype:dynamic"
+      }
+      Opacity: 1
+      IsHUD: true
+      CanvasWorldSize {
+        X: 1024
+        Y: 1024
+      }
+      RedrawTime: 30
+      UseSafeZoneAdjustment: true
+    }
+    AnchorLayout {
+      SelfAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+      TargetAnchor {
+        Anchor {
+          Value: "mc:euianchor:topleft"
+        }
+      }
+    }
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 13105351697665637477
+  Name: "Health Bar"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 1675656989204002660
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Health Bar"
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 11662824184512245201
+    }
+  }
 }
 Objects {
   Id: 946751036009582441
@@ -33625,6 +33846,8 @@ Objects {
     }
   }
   ParentId: 5489884274722733223
+  UnregisteredParameters {
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33790,6 +34013,8 @@ Objects {
     }
   }
   ParentId: 5489884274722733223
+  UnregisteredParameters {
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
