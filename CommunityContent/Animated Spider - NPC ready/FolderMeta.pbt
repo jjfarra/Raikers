@@ -1,0 +1,111 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "228d646f2c9a4680b11863ea3eaf063a"
+  OwnerAccountId: "f1f0d14255054426a318ce6366582fab"
+  OwnerName: "PiousLachance"
+  Version: "1.4.0"
+}
+AssetIdsOriginalToNew {
+  key: 458122803227783709
+  value: 13281596223336280413
+}
+AssetIdsOriginalToNew {
+  key: 580341652589374049
+  value: 17525180754635797225
+}
+AssetIdsOriginalToNew {
+  key: 727258681830799061
+  value: 3642116179684651180
+}
+AssetIdsOriginalToNew {
+  key: 937865380893966461
+  value: 12543197264250130554
+}
+AssetIdsOriginalToNew {
+  key: 991129523845730098
+  value: 8274738487493975590
+}
+AssetIdsOriginalToNew {
+  key: 1187455807715232905
+  value: 11127350506673515
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 1924404455949877813
+}
+AssetIdsOriginalToNew {
+  key: 1897013988356485617
+  value: 15520475636058197394
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 14208935490465805013
+}
+AssetIdsOriginalToNew {
+  key: 3330144696936949926
+  value: 6129766144421903212
+}
+AssetIdsOriginalToNew {
+  key: 5779552095675969792
+  value: 4252575282185354534
+}
+AssetIdsOriginalToNew {
+  key: 5955898987869432336
+  value: 6092608713402832317
+}
+AssetIdsOriginalToNew {
+  key: 6537365277516323278
+  value: 2865455744465638678
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 7196106438668915410
+}
+AssetIdsOriginalToNew {
+  key: 8107571516834721797
+  value: 9011438286930349409
+}
+AssetIdsOriginalToNew {
+  key: 8809571530232671069
+  value: 9848123646240459608
+}
+AssetIdsOriginalToNew {
+  key: 9675404666722668957
+  value: 8526624801477602222
+}
+AssetIdsOriginalToNew {
+  key: 10349134727588770209
+  value: 12403155378938288269
+}
+AssetIdsOriginalToNew {
+  key: 12368449757121228769
+  value: 4379871776922530585
+}
+AssetIdsOriginalToNew {
+  key: 12643366138827945971
+  value: 17539694318827976960
+}
+AssetIdsOriginalToNew {
+  key: 13318088730345297515
+  value: 14181701488912204351
+}
+AssetIdsOriginalToNew {
+  key: 13802035029826804676
+  value: 2313210417110274785
+}
+AssetIdsOriginalToNew {
+  key: 16141594724759859484
+  value: 5748188557081107731
+}
+AssetIdsOriginalToNew {
+  key: 16561035292744857394
+  value: 10107595891430054193
+}
+AssetIdsOriginalToNew {
+  key: 16900040630436666068
+  value: 9930713932117734629
+}
+AssetIdsOriginalToNew {
+  key: 16925272535940503983
+  value: 17414403773701054704
+}

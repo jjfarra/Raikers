@@ -503,6 +503,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9426188198345824359
+  Name: "Ball"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sphere_001"
+  }
+}
+Assets {
   Id: 9289746935881421791
   Name: "Japanese Temple Wall Large 02"
   PlatformAssetType: 1
@@ -554,6 +563,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_lrg_002_gate_detail1_ref"
+  }
+}
+Assets {
+  Id: 8577311143671657918
+  Name: "Wood Planks White"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_wood_planks_white_001_uv"
   }
 }
 Assets {
@@ -692,12 +710,30 @@ Assets {
   }
 }
 Assets {
+  Id: 6316521492804672545
+  Name: "Icon Bomb Blast"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Boom"
+  }
+}
+Assets {
   Id: 6314262906995166388
   Name: "Japanese Temple Pillar 01 - Mid 01 150cm"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_pillar_001_mid_01_150cm_ref"
+  }
+}
+Assets {
+  Id: 5633478450180767832
+  Name: "Icon Fireball"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Fireball"
   }
 }
 Assets {
@@ -827,6 +863,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3255814708276840062
+  Name: "Cone - Truncated"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_001"
+  }
+}
+Assets {
   Id: 3199224386448955187
   Name: "Japanese Temple Wall Ornament 01"
   PlatformAssetType: 1
@@ -860,6 +905,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_pillar_001_mid_01_150cm_ref"
+  }
+}
+Assets {
+  Id: 2272343506949074885
+  Name: "Icon Wind"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Wind"
   }
 }
 Assets {
