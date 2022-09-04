@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 18274563760636909690
+  Name: "Glass 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_glass_refrac_001"
+  }
+}
+Assets {
   Id: 18183058174189005650
   Name: "Whitebox Floor 01 4m x 4m"
   PlatformAssetType: 1
@@ -77,6 +86,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_lrg_002_gate_topA_ref"
+  }
+}
+Assets {
+  Id: 16845241941935487831
+  Name: "Glass 01 (no distortion)"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_basic_glass_001"
   }
 }
 Assets {
@@ -566,15 +584,6 @@ Assets {
   }
 }
 Assets {
-  Id: 8366927196881484130
-  Name: "Terrain - Grass"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_terrain_rock-grass-001_wa"
-  }
-}
-Assets {
   Id: 8357785967427654914
   Name: "Japanese Temple Pillar 01 - Mid 01"
   PlatformAssetType: 1
@@ -914,15 +923,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_railing_stringer_straight_001_ref"
-  }
-}
-Assets {
-  Id: 1126186578389923061
-  Name: "Invisible"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_invisible_001"
   }
 }
 Assets {

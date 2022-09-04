@@ -1,0 +1,1 @@
+-- Point to Point electrical beam.  When this surface is placed, look for nearest players and create electrical beams to them until this template dies.

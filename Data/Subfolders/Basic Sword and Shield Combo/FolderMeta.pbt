@@ -1,0 +1,79 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "407e0d59bca744378782cf5919871473"
+  OwnerAccountId: "a43b780803b54268ad2014d2dce3ac5f"
+  OwnerName: "kingcreate"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 1152154579903402515
+  value: 5779611511540406870
+}
+AssetIdsOriginalToNew {
+  key: 1427829216143793458
+  value: 13177619647673070750
+}
+AssetIdsOriginalToNew {
+  key: 3194930412626622494
+  value: 13058125961351498587
+}
+AssetIdsOriginalToNew {
+  key: 4142751306182597579
+  value: 14978695616264924249
+}
+AssetIdsOriginalToNew {
+  key: 6893986948569522536
+  value: 1851435986960765408
+}
+AssetIdsOriginalToNew {
+  key: 7445855579671141283
+  value: 16486355707160532996
+}
+AssetIdsOriginalToNew {
+  key: 8799101599018051692
+  value: 6330384749929413655
+}
+AssetIdsOriginalToNew {
+  key: 9748598691135565465
+  value: 2950191583996630588
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 1824741279014445730
+}
+AssetIdsOriginalToNew {
+  key: 10109220941690346490
+  value: 1541467487329654582
+}
+AssetIdsOriginalToNew {
+  key: 10251728999306098252
+  value: 15214841933754895858
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 15695771936660490126
+}
+AssetIdsOriginalToNew {
+  key: 13807498153521726515
+  value: 8447575334485060804
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 4191809251659658358
+}
+AssetIdsOriginalToNew {
+  key: 15248574229477717252
+  value: 2831319126325451212
+}
+AssetIdsOriginalToNew {
+  key: 15810894035057021327
+  value: 6403187907145989210
+}
+AssetIdsOriginalToNew {
+  key: 17134926086803901810
+  value: 11875859876169576780
+}
+AssetIdsOriginalToNew {
+  key: 17595504916760055462
+  value: 4502863003875997208
+}

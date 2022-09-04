@@ -22,7 +22,6 @@ Objects {
   ChildIds: 3133188481117312326
   ChildIds: 15975969720731069605
   ChildIds: 7830051894408206467
-  ChildIds: 6009096323690708787
   ChildIds: 13222840430863428258
   ChildIds: 10789695939368553573
   ChildIds: 13221236681380787961
@@ -74,6 +73,62 @@ Objects {
   ChildIds: 15121335154260145423
   ChildIds: 11067086689945733779
   ChildIds: 12347769904659568809
+  ChildIds: 11286782321184015110
+  ChildIds: 15191282493426775313
+  ChildIds: 18103484747012921380
+  ChildIds: 976514633929254024
+  ChildIds: 3007557974426842561
+  ChildIds: 18197200772511285585
+  ChildIds: 4870434682360330890
+  ChildIds: 14693062133374395955
+  ChildIds: 7824371973482822425
+  ChildIds: 5613131662271252633
+  ChildIds: 12958376804691393041
+  ChildIds: 9172250065757229305
+  ChildIds: 14786579433427403758
+  ChildIds: 14294961318737876841
+  ChildIds: 18359047952766684421
+  ChildIds: 8161470281528766607
+  ChildIds: 11809364060383763119
+  ChildIds: 7668056872282649833
+  ChildIds: 6815855958985359200
+  ChildIds: 6041543302482598926
+  ChildIds: 15578288511905181167
+  ChildIds: 15050343857871234488
+  ChildIds: 3170667959255220734
+  ChildIds: 4494783539391165273
+  ChildIds: 7136006602540637922
+  ChildIds: 11880324987296390566
+  ChildIds: 16430384632185813078
+  ChildIds: 13281064027172824063
+  ChildIds: 9252625719127217337
+  ChildIds: 3465347402484791003
+  ChildIds: 13184824109976859570
+  ChildIds: 1700072295118037229
+  ChildIds: 15199943571859262210
+  ChildIds: 7997936694079711785
+  ChildIds: 3183882933118474447
+  ChildIds: 9072304922398057603
+  ChildIds: 12082828488376285296
+  ChildIds: 17844525064861398636
+  ChildIds: 2571985767957069797
+  ChildIds: 3994894149216802238
+  ChildIds: 1909538958672338404
+  ChildIds: 5987973442454958939
+  ChildIds: 11303279605231821817
+  ChildIds: 7414563443282990076
+  ChildIds: 1802811123966051383
+  ChildIds: 3231528347277891182
+  ChildIds: 10811170214748838136
+  ChildIds: 2199638488270913873
+  ChildIds: 1475557885933770105
+  ChildIds: 3117565257189506403
+  ChildIds: 5168223529678016223
+  ChildIds: 12960745634003820248
+  ChildIds: 7156196230257723937
+  ChildIds: 8758053984067639809
+  ChildIds: 12464996581637905879
+  ChildIds: 13432966443089027065
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -86,6 +141,3134 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 13432966443089027065
+  Name: "Shrooms"
+  Transform {
+    Location {
+      X: -26160
+      Y: -2305
+      Z: -225
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.4
+      Y: 1.4
+      Z: 1.4
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 211996634966115505
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Shrooms"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22860
+            Y: -2465
+            Z: -225
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.4
+            Y: 1.4
+            Z: 1.4
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 3588577166605409553
+    }
+  }
+}
+Objects {
+  Id: 12464996581637905879
+  Name: "Shrooms"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 211996634966115505
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Shrooms"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26160
+            Y: -2305
+            Z: -225
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.4
+            Y: 1.4
+            Z: 1.4
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1629077140465386390
+    }
+  }
+}
+Objects {
+  Id: 8758053984067639809
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: -27850
+      Y: -13490
+      Z: 47.5
+    }
+    Rotation {
+      Yaw: 89.9999847
+    }
+    Scale {
+      X: 32.6999969
+      Y: 1.80000007
+      Z: 15.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 18274563760636909690
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:low"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 7156196230257723937
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: -16765
+      Y: -13545
+      Z: 47.5
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 7.00000238
+      Y: 1.80000007
+      Z: 15.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 18274563760636909690
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:low"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12960745634003820248
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: -28280
+      Y: -7935
+      Z: 47.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 14.4999981
+      Y: 1.80000007
+      Z: 15.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 18274563760636909690
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:low"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 5168223529678016223
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -18935
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18105
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 3117565257189506403
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -19705
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18935
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 1475557885933770105
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -20450
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19705
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 2199638488270913873
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -21275
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20450
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 10811170214748838136
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -21955
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21275
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 3231528347277891182
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -22785
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21955
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 1802811123966051383
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -23680
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22785
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 7414563443282990076
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -24625
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23680
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 11303279605231821817
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -25360
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24625
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 5987973442454958939
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26020
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25360
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 1909538958672338404
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26790
+      Y: -7730
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26020
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 3994894149216802238
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26493
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26790
+            Y: -7730
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 2571985767957069797
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: -16765
+      Y: 7265
+      Z: 47.5
+    }
+    Rotation {
+      Yaw: 90
+    }
+    Scale {
+      X: 7.00000238
+      Y: 1.80000007
+      Z: 15.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 18274563760636909690
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:low"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 17844525064861398636
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: -28280
+      Y: 7265
+      Z: 47.5
+    }
+    Rotation {
+    }
+    Scale {
+      X: 14.4999981
+      Y: 1.80000007
+      Z: 15.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 18274563760636909690
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:low"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12082828488376285296
+  Name: "Whitebox Wall 01"
+  Transform {
+    Location {
+      X: -27814
+      Y: 12045
+      Z: -855
+    }
+    Rotation {
+    }
+    Scale {
+      X: 41.7499924
+      Y: 1.75
+      Z: 15.5
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 18274563760636909690
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceon"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 17600359723065005811
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:low"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 9072304922398057603
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -18865
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18029
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 3183882933118474447
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -19617
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18865
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 7997936694079711785
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -20355
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19617
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 15199943571859262210
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -21194
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20633
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 1700072295118037229
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -22025
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21194
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 13184824109976859570
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -22889
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22025
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 3465347402484791003
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -23767
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22889
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 9252625719127217337
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -23382
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23767
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 13281064027172824063
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -24310
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24662
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 16430384632185813078
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -25198
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25734
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 11880324987296390566
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26000
+      Y: 7125
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26270
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 7136006602540637922
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26493
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26841
+            Y: 7125
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 4494783539391165273
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -18982
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18265
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 3170667959255220734
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -20233
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19526
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 15050343857871234488
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -21470
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20827
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 15578288511905181167
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -22682
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21968
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 6041543302482598926
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -23778
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23061
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 6815855958985359200
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -25218
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24206
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 7668056872282649833
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26493
+      Y: -6855
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25360
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 11809364060383763119
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26493
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26493
+            Y: -6855
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 8161470281528766607
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -19131
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -17946
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 18359047952766684421
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -20223
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19131
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 14294961318737876841
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -21438
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20223
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 14786579433427403758
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -22672
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21438
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 9172250065757229305
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -23940
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22672
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 12958376804691393041
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -25147
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23940
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 5613131662271252633
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Location {
+      X: -26493
+      Y: 6367
+      Z: 48
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25248
+            Y: 6367
+            Z: 48
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 18338543312140711168
+    }
+  }
+}
+Objects {
+  Id: 7824371973482822425
+  Name: "Tree Redwood Medium (with FX)"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 18320932665914632232
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Tree Redwood Medium (with FX)"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -26493
+            Y: 6367
+            Z: 48
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 9852524623410148444
+    }
+  }
+}
+Objects {
+  Id: 14693062133374395955
+  Name: "Japanese House 02 - Template"
+  Transform {
+    Location {
+      X: -22174
+      Y: -4880
+      Z: 24
+    }
+    Rotation {
+      Yaw: 0.976209879
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14625684688251651631
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Japanese House 02 - Template"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25324
+            Y: -4880
+            Z: 24
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 0.976209879
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16281043295639033007
+    }
+  }
+}
+Objects {
+  Id: 4870434682360330890
+  Name: "Japanese House 02 - Template"
+  Transform {
+    Location {
+      X: -19128
+      Y: -4880
+      Z: 24
+    }
+    Rotation {
+      Yaw: 0.976209939
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14625684688251651631
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Japanese House 02 - Template"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22174
+            Y: -4880
+            Z: 24
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 0.976209879
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16281043295639033007
+    }
+  }
+}
+Objects {
+  Id: 18197200772511285585
+  Name: "Japanese House 02 - Template"
+  Transform {
+    Location {
+      X: -18344
+      Y: 4263
+      Z: 24
+    }
+    Rotation {
+      Yaw: -179.024231
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14625684688251651631
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Japanese House 02 - Template"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19128
+            Y: -4880
+            Z: 24
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 0.976210177
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16281043295639033007
+    }
+  }
+}
+Objects {
+  Id: 3007557974426842561
+  Name: "Japanese House 02 - Template"
+  Transform {
+    Location {
+      X: -21458
+      Y: 4263
+      Z: 24
+    }
+    Rotation {
+      Yaw: -179.024231
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14625684688251651631
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Japanese House 02 - Template"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18344
+            Y: 4263
+            Z: 24
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.024231
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16281043295639033007
+    }
+  }
+}
+Objects {
+  Id: 976514633929254024
+  Name: "Japanese House 02 - Template"
+  Transform {
+    Location {
+      X: -24636
+      Y: 4263
+      Z: 24
+    }
+    Rotation {
+      Yaw: -179.024231
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14625684688251651631
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Japanese House 02 - Template"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21458
+            Y: 4263
+            Z: 24
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.024231
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16281043295639033007
+    }
+  }
+}
+Objects {
+  Id: 18103484747012921380
+  Name: "Japanese House 02 - Template"
+  Transform {
+    Location {
+      X: -1539.1145
+      Y: -570.045166
+      Z: 52.7368774
+    }
+    Rotation {
+      Yaw: -179.024231
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14625684688251651631
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Japanese House 02 - Template"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24636
+            Y: 4263
+            Z: 24
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -179.024231
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16281043295639033007
+    }
+  }
+}
+Objects {
+  Id: 15191282493426775313
+  Name: "Default Floor"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 15914970054360115006
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Default Floor"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22250
+            Y: -298
+            Z: -815
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 111.25
+            Y: 262.75
+            Z: 17.25
+          }
+        }
+        Overrides {
+          Name: "ma:Shared_BaseMaterial:id"
+          AssetReference {
+            Id: 6708434992728500339
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 5741824618393481892
+    }
+  }
+}
+Objects {
+  Id: 11286782321184015110
+  Name: "Default Floor"
+  Transform {
+    Location {
+      X: -5755.37354
+      Z: -499.723877
+    }
+    Rotation {
+    }
+    Scale {
+      X: 186.734772
+      Y: 252.26712
+      Z: -11.0492163
+    }
+  }
+  ParentId: 4781671109827199097
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 6708434992728500339
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -33745,9 +36928,9 @@ Objects {
   }
   ParentId: 2895895811114860783
   ChildIds: 14386529386769094465
-  ChildIds: 3195384704110353058
   ChildIds: 9102757044518841556
   ChildIds: 13009999398384778420
+  ChildIds: 3195384704110353058
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33762,6 +36945,61 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3195384704110353058
+  Name: "Fantasy Castle Floor 01 - 8m"
+  Transform {
+    Location {
+      X: -1133.10535
+      Y: -500.718384
+      Z: 0.000274658203
+    }
+    Rotation {
+      Yaw: -41.9978943
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5089120627752864492
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 8185767029802762939
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -33834,61 +37072,6 @@ Objects {
     }
     Rotation {
       Yaw: -41.9979248
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5089120627752864492
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 8185767029802762939
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3195384704110353058
-  Name: "Fantasy Castle Floor 01 - 8m"
-  Transform {
-    Location {
-      X: -1133.10535
-      Y: -500.718384
-      Z: 0.000274658203
-    }
-    Rotation {
-      Yaw: -41.9978943
     }
     Scale {
       X: 1
@@ -38287,7 +41470,7 @@ Objects {
   Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: -16695.8984
+      X: -16745.8984
       Y: 15580.5439
       Z: -343.107635
     }
@@ -38368,7 +41551,7 @@ Objects {
   Name: "lago"
   Transform {
     Location {
-      X: -15849.4414
+      X: -15899.4414
       Y: -103.106079
       Z: -211.08374
     }
@@ -38498,21 +41681,20 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6009096323690708787
+  Id: 7830051894408206467
   Name: "Whitebox Wall 01"
   Transform {
     Location {
-      X: -16530.8867
-      Y: 14549.8223
-      Z: -2638.11768
+      X: -29059
+      Y: -12290
+      Z: -855
     }
     Rotation {
-      Yaw: 2.82655144
     }
     Scale {
-      X: 82.8799286
-      Y: 1.29176688
-      Z: 13.0919418
+      X: 41.7499924
+      Y: 1.75
+      Z: 15.5
     }
   }
   ParentId: 4781671109827199097
@@ -38520,75 +41702,13 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner2:id"
       AssetReference {
-        Id: 1126186578389923061
+        Id: 16845241941935487831
       }
     }
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 8366927196881484130
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 17600359723065005811
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:low"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 7830051894408206467
-  Name: "Whitebox Wall 01"
-  Transform {
-    Location {
-      X: -16530.8867
-      Y: -12530.4648
-      Z: 52.8178711
-    }
-    Rotation {
-    }
-    Scale {
-      X: 67.5037613
-      Y: -1.65208888
-      Z: 7.18969202
-    }
-  }
-  ParentId: 4781671109827199097
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 1126186578389923061
+        Id: 6708434992728500339
       }
     }
   }
@@ -38633,8 +41753,8 @@ Objects {
   Name: "Bridge"
   Transform {
     Location {
-      X: -15922.1602
-      Y: -62.6297
+      X: -15889
+      Y: -197
       Z: 52.817749
     }
     Rotation {
@@ -84966,15 +88086,15 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -16266.335
-      Y: -185.01001
-      Z: 456.152252
+      X: -27147
+      Y: -245
+      Z: 172
     }
     Rotation {
     }
     Scale {
       X: 1
-      Y: 1
+      Y: 2.2
       Z: 1
     }
   }
