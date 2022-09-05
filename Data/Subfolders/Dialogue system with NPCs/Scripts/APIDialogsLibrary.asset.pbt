@@ -1,5 +1,5 @@
 Assets {
-  Id: 15293793707010769899
+  Id: 5997296009740583296
   Name: "APIDialogsLibrary"
   PlatformAssetType: 3
   TextAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 11585558347821296042
+  Id: 2219022420361886816
   Name: "NPCs and Dialogs"
   PlatformAssetType: 5
   TemplateAsset {
@@ -238,7 +238,7 @@ Assets {
           Overrides {
             Name: "cs:DialogIndicator"
             AssetReference {
-              Id: 5080183747718453334
+              Id: 15738532624274606314
             }
           }
         }
@@ -253,7 +253,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13333660581563826324
+            Id: 1970875034605670340
           }
         }
         NetworkRelevanceDistance {
@@ -459,7 +459,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5945472494743248842
+            Id: 13215000664663242992
           }
         }
         NetworkRelevanceDistance {
@@ -486,7 +486,7 @@ Assets {
           Overrides {
             Name: "cs:Conversations"
             AssetReference {
-              Id: 12400435228233839221
+              Id: 14276692477942561209
             }
           }
         }
@@ -569,7 +569,7 @@ Assets {
           Overrides {
             Name: "cs:APIDialogsLibrary"
             AssetReference {
-              Id: 10349636331703917062
+              Id: 10102683684656160811
             }
           }
           Overrides {
@@ -629,7 +629,7 @@ Assets {
           Overrides {
             Name: "cs:Helper"
             AssetReference {
-              Id: 10884120819602357708
+              Id: 11108498355126522554
             }
           }
         }
@@ -644,7 +644,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6111210097843656017
+            Id: 6726510183635514193
           }
         }
         NetworkRelevanceDistance {
@@ -845,7 +845,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 10947000180981200331
+              Id: 5548554394977228926
             }
           }
           Overrides {
@@ -872,7 +872,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3494753390986184016
+            Id: 3960085399209547094
           }
         }
         NetworkRelevanceDistance {

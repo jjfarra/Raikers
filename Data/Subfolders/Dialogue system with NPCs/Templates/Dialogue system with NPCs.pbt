@@ -1,5 +1,5 @@
 Assets {
-  Id: 7948563900205283902
+  Id: 11912762385035096170
   Name: "Dialogue system with NPCs"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 18410942744166893323
+              Id: 4724941672519019934
             }
           }
         }

@@ -40,7 +40,7 @@ Objects {
   ChildIds: 343562879261897759
   ChildIds: 5995304175975499530
   ChildIds: 6342468787562601777
-  ChildIds: 10612722445501427747
+  ChildIds: 3015863544894148126
   ChildIds: 14706394768710959856
   ChildIds: 9927138196267971700
   ChildIds: 5588199191153388860
@@ -51,23 +51,9 @@ Objects {
   ChildIds: 14696697568936150662
   ChildIds: 12225760405329012838
   ChildIds: 6774266877027087
-  ChildIds: 8212956640725260158
-  ChildIds: 6039555312168728078
-  ChildIds: 11243085885441538584
-  ChildIds: 2785861173363997392
-  ChildIds: 710766975354287149
-  ChildIds: 10629340628578162457
-  ChildIds: 1268145737533638805
-  ChildIds: 5579588954809134219
-  ChildIds: 7849449830058612677
-  ChildIds: 10031954176192690561
-  ChildIds: 5055200639114661473
-  ChildIds: 9361327845020949537
   ChildIds: 11404166795003300951
   ChildIds: 3065042818809399312
-  ChildIds: 11245788167462103613
   ChildIds: 13945813976599457141
-  ChildIds: 12928255538922184795
   ChildIds: 8336534785982372618
   ChildIds: 13547089169230823664
   ChildIds: 15121335154260145423
@@ -136,6 +122,86 @@ Objects {
   ChildIds: 644207073890487449
   ChildIds: 14542625879211624149
   ChildIds: 7905394235465596276
+  ChildIds: 2460672499111371131
+  ChildIds: 129455981303759314
+  ChildIds: 16492062388554810631
+  ChildIds: 3972258330175999299
+  ChildIds: 16688173716069372316
+  ChildIds: 6413517480453647620
+  ChildIds: 13931985025308125741
+  ChildIds: 5472884013646155124
+  ChildIds: 11151747231638873482
+  ChildIds: 1668717757852540597
+  ChildIds: 12689982452821590018
+  ChildIds: 6565660432512178342
+  ChildIds: 10369085230127576660
+  ChildIds: 4547498959037121720
+  ChildIds: 11910100251848424129
+  ChildIds: 4909857269051624271
+  ChildIds: 4714502053906247815
+  ChildIds: 11992304178084357099
+  ChildIds: 7648173521159205374
+  ChildIds: 18156320392496858280
+  ChildIds: 8339499426232669537
+  ChildIds: 397758353572538644
+  ChildIds: 11975904378392246460
+  ChildIds: 14472218185450386375
+  ChildIds: 2973878625383337299
+  ChildIds: 14447341547117746005
+  ChildIds: 9646115868133650790
+  ChildIds: 12134420292407960720
+  ChildIds: 7560356055681980962
+  ChildIds: 17191969004623848484
+  ChildIds: 17375977256353697692
+  ChildIds: 8214579957344112257
+  ChildIds: 11972394339700917481
+  ChildIds: 4196740256674946192
+  ChildIds: 17554945586094152404
+  ChildIds: 2314167794318447488
+  ChildIds: 7086247928191425868
+  ChildIds: 9210835107536502955
+  ChildIds: 13818670850580946186
+  ChildIds: 10772783825053688806
+  ChildIds: 7579356182999764413
+  ChildIds: 16230802489964660320
+  ChildIds: 13042140322475461848
+  ChildIds: 16195538717432537151
+  ChildIds: 17840994295719090197
+  ChildIds: 13919532748264098337
+  ChildIds: 6415560503149959836
+  ChildIds: 8177130201083960943
+  ChildIds: 8461930187356012499
+  ChildIds: 2878082321648868114
+  ChildIds: 5928761278250330422
+  ChildIds: 15779074630157715468
+  ChildIds: 10335673204684097024
+  ChildIds: 55171945180353245
+  ChildIds: 15637875611640526659
+  ChildIds: 4844142171328676369
+  ChildIds: 95454179066488129
+  ChildIds: 2046703063367680131
+  ChildIds: 12266339664900210666
+  ChildIds: 12505715260909379687
+  ChildIds: 6970628769421631816
+  ChildIds: 465393092633801984
+  ChildIds: 9525529137193692716
+  ChildIds: 789953628097024529
+  ChildIds: 7325012795269896790
+  ChildIds: 15479588398443375586
+  ChildIds: 1692803995648713790
+  ChildIds: 14281713516323741242
+  ChildIds: 6807432241414802714
+  ChildIds: 14428863098039400221
+  ChildIds: 17716622174385206769
+  ChildIds: 16847446462773210958
+  ChildIds: 1917617698387726731
+  ChildIds: 3015780900505336407
+  ChildIds: 4593592187750647264
+  ChildIds: 4865437602388331032
+  ChildIds: 9627768776984430282
+  ChildIds: 12762217081170817952
+  ChildIds: 5936730125684192156
+  ChildIds: 1987173059705571519
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -153,6 +219,2814 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 1987173059705571519
+  Name: "RPG Skeleton - Marksman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Marksman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12482.9814
+            Y: -4316.14404
+            Z: 252.990814
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2936960526737165449
+    }
+  }
+}
+Objects {
+  Id: 5936730125684192156
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12731.6416
+            Y: -4110.42773
+            Z: 252.990814
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 12762217081170817952
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12742.6807
+            Y: -4470.39551
+            Z: 252.990814
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 9627768776984430282
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12416.4717
+            Y: -3994.58179
+            Z: 252.990814
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 4865437602388331032
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12705.5576
+            Y: -4332.94922
+            Z: 252.990814
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 4593592187750647264
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -10998.627
+            Y: -7521.94629
+            Z: 77.914978
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 3015780900505336407
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11671.0244
+            Y: -7268.2168
+            Z: 75.6235428
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 1917617698387726731
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11600.1924
+            Y: -7136.11328
+            Z: 702.990601
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 16847446462773210958
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -12148.5625
+            Y: -7629.3374
+            Z: 702.990601
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 17716622174385206769
+  Name: "RPG Skeleton - Unarmed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Unarmed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11513.4326
+            Y: -6629.6748
+            Z: 702.990601
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17837151488474420390
+    }
+  }
+}
+Objects {
+  Id: 14428863098039400221
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11714.666
+            Y: -8197.5957
+            Z: 702.990601
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 6807432241414802714
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -11646.335
+            Y: -7679.1543
+            Z: 702.990601
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 14281713516323741242
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3179.80298
+            Y: -8344.45801
+            Z: 3282.27466
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 1692803995648713790
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2811.88232
+            Y: -7522.01953
+            Z: 3273.72266
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 15479588398443375586
+  Name: "RPG Skeleton - Marksman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Marksman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4216.82861
+            Y: -8992.71
+            Z: 3273.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2936960526737165449
+    }
+  }
+}
+Objects {
+  Id: 7325012795269896790
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4294.23389
+            Y: -6488.26562
+            Z: 3142.07397
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 789953628097024529
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4658.50488
+            Y: -6318.59473
+            Z: 2323.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 9525529137193692716
+  Name: "RPG Skeleton - Unarmed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Unarmed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4293.10303
+            Y: -6117.7793
+            Z: 2323.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17837151488474420390
+    }
+  }
+}
+Objects {
+  Id: 465393092633801984
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3283.59082
+            Y: -5125.5083
+            Z: 2325.78125
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 6970628769421631816
+  Name: "RPG Skeleton - Marksman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Marksman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4614.16943
+            Y: -7694.71
+            Z: 2298.82422
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2936960526737165449
+    }
+  }
+}
+Objects {
+  Id: 12505715260909379687
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4264.40771
+            Y: -7968.2832
+            Z: 2298.82422
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 12266339664900210666
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4847.3418
+            Y: -7519.23193
+            Z: 2298.82422
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 2046703063367680131
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2121.50342
+            Y: -5828.86328
+            Z: 2354.90161
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 95454179066488129
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3400.30444
+            Y: -7199.38574
+            Z: 2298.79883
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 4844142171328676369
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4406.97803
+            Y: -7149.21143
+            Z: 2298.79883
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 15637875611640526659
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4369.92725
+            Y: -7636.00635
+            Z: 2298.82422
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 55171945180353245
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2884.69775
+            Y: -8942.75293
+            Z: 1298.79895
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 10335673204684097024
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3395.41455
+            Y: -8838.99805
+            Z: 1298.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 15779074630157715468
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3523.40381
+            Y: -9383.75586
+            Z: 1273.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 5928761278250330422
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2425.85303
+            Y: -8465.55176
+            Z: 1298.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 2878082321648868114
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2096.51147
+            Y: -8000.4585
+            Z: 1283.51978
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 8461930187356012499
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1642.39038
+            Y: -7238.19922
+            Z: 1298.79895
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 8177130201083960943
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3555.95532
+            Y: -7360.44336
+            Z: 1244.1416
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 6415560503149959836
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3744.54028
+            Y: -6878.27588
+            Z: 1249.02625
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 13919532748264098337
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2982.85425
+            Y: -7118.85547
+            Z: 1273.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 17840994295719090197
+  Name: "RPG Skeleton - Unarmed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Unarmed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4490.64307
+            Y: -7739.38232
+            Z: 1249.02625
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17837151488474420390
+    }
+  }
+}
+Objects {
+  Id: 16195538717432537151
+  Name: "RPG Skeleton - Marksman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Marksman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -5393.09619
+            Y: -6972.22852
+            Z: 1298.77368
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2936960526737165449
+    }
+  }
+}
+Objects {
+  Id: 13042140322475461848
+  Name: "RPG Skeleton - Marksman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Marksman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 287.699463
+            Y: 653.162598
+            Z: 252.991058
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2936960526737165449
+    }
+  }
+}
+Objects {
+  Id: 16230802489964660320
+  Name: "RPG Skeleton - Unarmed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Unarmed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 369.907166
+            Y: 839.552246
+            Z: 252.991058
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17837151488474420390
+    }
+  }
+}
+Objects {
+  Id: 7579356182999764413
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 434.830536
+            Y: 458.050812
+            Z: 252.991058
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 10772783825053688806
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 726.273926
+            Y: 659.103271
+            Z: 252.991058
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 13818670850580946186
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3957.44556
+            Y: 170.39064
+            Z: 377.990753
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 9210835107536502955
+  Name: "RPG Skeleton - Unarmed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Unarmed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2316.88574
+            Y: -589.742065
+            Z: 77.9907684
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17837151488474420390
+    }
+  }
+}
+Objects {
+  Id: 7086247928191425868
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1877.15662
+            Y: -902.999634
+            Z: 77.9907532
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 2314167794318447488
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2578.9436
+            Y: -388.127838
+            Z: 77.9907532
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 17554945586094152404
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2387.81519
+            Y: -1005.0174
+            Z: 1004.70636
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 4196740256674946192
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2246.67041
+            Y: -602.633606
+            Z: 1004.70636
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 11972394339700917481
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1486.57312
+            Y: -1104.26392
+            Z: 1004.70636
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 8214579957344112257
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4651.7168
+            Y: -678.91333
+            Z: 1004.70636
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 17375977256353697692
+  Name: "RPG Skeleton - Swordsman"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16661545407737424176
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Swordsman"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -10866.8398
+            Y: 6248.34424
+            Z: 77.9907532
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4718947315645759467
+    }
+  }
+}
+Objects {
+  Id: 17191969004623848484
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -10183.9111
+            Y: 7485.91211
+            Z: 1004.70636
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 7560356055681980962
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -6733.76953
+            Y: 10615.957
+            Z: 77.9908142
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 12134420292407960720
+  Name: "RPG Skeleton - Full Armed"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - Full Armed"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3047.38721
+            Y: 7047.82
+            Z: 1000.25391
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17821634676478878840
+    }
+  }
+}
+Objects {
+  Id: 9646115868133650790
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23520.1406
+            Y: -228.756805
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 14447341547117746005
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23061.043
+            Y: 2222.44238
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 2973878625383337299
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23365.0469
+            Y: -3649.42407
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 14472218185450386375
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24179.4062
+            Y: -2102.60205
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 11975904378392246460
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -27103.0566
+            Y: -5368.25146
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 397758353572538644
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18185.2441
+            Y: 1775.35693
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 8339499426232669537
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -17775.3926
+            Y: -1016.40143
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 18156320392496858280
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19041.9297
+            Y: -1710.59
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 7648173521159205374
+  Name: "NPCs and Dialogs"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14859362854836943051
+      value {
+        Overrides {
+          Name: "Name"
+          String: "NPCs and Dialogs"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -16871.7891
+            Y: -187.831909
+            Z: 47.5
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -67.3080139
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17074539370557695780
+      value {
+        Overrides {
+          Name: "AnimatedMesh"
+          AssetReference {
+            Id: 18039984299850060191
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4724941672519019934
+    }
+  }
+}
+Objects {
+  Id: 11992304178084357099
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23369.8711
+            Y: 2856.78296
+            Z: 47.500061
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 4714502053906247815
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19990.3418
+            Y: -947.183777
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 4909857269051624271
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20899.6328
+            Y: -863.781433
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 11910100251848424129
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21328.3672
+            Y: 767.646729
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 4547498959037121720
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19528.252
+            Y: 98.195282
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 10369085230127576660
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20082.3086
+            Y: 847.156128
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 6565660432512178342
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20050.1895
+            Y: 2579.53662
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 12689982452821590018
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -17051.5371
+            Y: 3383.84
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 1668717757852540597
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -17230.5879
+            Y: -3527.84375
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 11151747231638873482
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19158.9414
+            Y: -6273.19434
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 5472884013646155124
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18288.9902
+            Y: -7330.86035
+            Z: 47.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 13931985025308125741
+  Name: "dead people"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6775733210169987715
+      value {
+        Overrides {
+          Name: "Name"
+          String: "dead people"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -17344.5625
+            Y: -6443.19629
+            Z: 47.500061
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 8759135343088296377
+    }
+  }
+}
+Objects {
+  Id: 6413517480453647620
+  Name: "Leaping Staff - Common"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9901109355884061414
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Leaping Staff - Common"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -18317.9277
+            Y: -4910.57666
+            Z: 156.977158
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6557685986651005987
+    }
+  }
+}
+Objects {
+  Id: 16688173716069372316
+  Name: "Leaping Staff - Common"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9901109355884061414
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Leaping Staff - Common"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19417.7949
+            Y: 3901.93433
+            Z: 164.196075
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15850577353502109467
+    }
+  }
+}
+Objects {
+  Id: 3972258330175999299
+  Name: "Shield"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14848547798363137561
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Shield"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22326.0566
+            Y: 4171.26025
+            Z: 132.193604
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -169.69165
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 431487296536241441
+    }
+  }
+}
+Objects {
+  Id: 16492062388554810631
+  Name: "Shield"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 14848547798363137561
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Shield"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -21389.1309
+            Y: -4490.48682
+            Z: 146.04155
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 10.8931398
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 431487296536241441
+    }
+  }
+}
+Objects {
+  Id: 129455981303759314
+  Name: "Fiery Sword"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9647206459497007058
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fiery Sword"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24612.5234
+            Y: -4542.50293
+            Z: 120.890274
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14558759389573619417
+    }
+  }
+}
+Objects {
+  Id: 2460672499111371131
+  Name: "Fiery Sword"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9647206459497007058
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fiery Sword"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25388.0605
+            Y: 4015.33252
+            Z: 128.321289
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14558759389573619417
+    }
+  }
 }
 Objects {
   Id: 7905394235465596276
@@ -4544,40 +7418,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12928255538922184795
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -7700
-            Y: -3450
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
   Id: 13945813976599457141
   Name: "dead people"
   Transform {
@@ -4602,40 +7442,6 @@ Objects {
             X: -5400
             Y: -3650
             Z: 650
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 11245788167462103613
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -8850
-            Y: 4700
-            Z: 50
           }
         }
       }
@@ -4704,414 +7510,6 @@ Objects {
             X: -5000
             Y: -900
             Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 9361327845020949537
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3300
-            Y: 4450
-            Z: 50
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 5055200639114661473
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1650
-            Y: 1700
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 10031954176192690561
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2650
-            Y: 3550
-            Z: 50
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 7849449830058612677
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -5850
-            Y: 7150
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 5579588954809134219
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -5800
-            Y: 3900
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 1268145737533638805
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -7350
-            Y: -300
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 10629340628578162457
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -5500
-            Y: -2000
-            Z: 50
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 710766975354287149
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -5150
-            Y: 5150
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 2785861173363997392
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -6700
-            Y: 5700
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 11243085885441538584
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -6750
-            Y: -1000
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 6039555312168728078
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -6650
-            Y: 1200
-            Z: 100
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8759135343088296377
-    }
-  }
-}
-Objects {
-  Id: 8212956640725260158
-  Name: "dead people"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6775733210169987715
-      value {
-        Overrides {
-          Name: "Name"
-          String: "dead people"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -5550
-            Y: 1950
-            Z: 77.7662354
           }
         }
       }
@@ -5524,9 +7922,14 @@ Objects {
   }
 }
 Objects {
-  Id: 10612722445501427747
+  Id: 3015863544894148126
   Name: "NPCs and Dialogs"
   Transform {
+    Location {
+      X: -8150
+      Y: 250
+      Z: 199.896744
+    }
     Scale {
       X: 1
       Y: 1
@@ -5534,39 +7937,23 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 9184880900479379355
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -3.89672852
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 14859362854836943051
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPCs and Dialogs"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -8150
-            Y: 250
-            Z: 199.896744
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18410942744166893323
-    }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "NPCs and Dialogs_1"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 6342468787562601777

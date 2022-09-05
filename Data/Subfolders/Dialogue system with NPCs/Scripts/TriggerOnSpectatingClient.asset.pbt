@@ -1,5 +1,5 @@
 Assets {
-  Id: 15968809939757634813
+  Id: 16805846237806041620
   Name: "TriggerOnSpectatingClient"
   PlatformAssetType: 3
   TextAsset {

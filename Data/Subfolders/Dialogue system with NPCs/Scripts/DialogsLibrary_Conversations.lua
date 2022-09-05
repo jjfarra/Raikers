@@ -21,21 +21,22 @@ function Dialogs.RegisterDialogue()
     -- Generic Conversations
     id = "GenericConversation1"
     API.RegisterDialogueId(id)
-    API.AddText(id, "Hola!", WAVE_ANIMATION)
-    API.AddText(id, "Nustro pueblo sufre, ¿Deseas saber por qué?")
+    API.AddText(id, "Hello fellas! I must warn you of what is comming...", WAVE_ANIMATION)
+    API.AddText(id, "This is The Skelenton's Village, if you gusys enter you must know something important first...")
 
-    API.AddOption(id, "Sí.", "GenericConversation2")
-    API.AddOption(id, "No.", "GenericConversation3")
+    API.AddOption(id, "Tell me.", "GenericConversation2")
+    API.AddOption(id, "I don't care!", "GenericConversation3")
 
     id = "GenericConversation2"
     API.RegisterDialogueId(id)
-    API.AddText(id, "El líder de los esqueleticos ha robado nuestro tesoro más preciado...", "unarmed_yes")
-    API.AddText(id, "Ahora estamos invadidos por ellos y no podemos ser libres, encuentra y mata a cuantos esqueleticos puedas!!!!", "unarmed_laugh")
-
+    API.AddText(id, "The Skeletons robbed our most treasured object, they killed our people and they take our pride away. We need you guys...", "unarmed_yes")
+    API.AddText(id, "...To go to each one of those temples behind you to grab ultra powerfull guns to kill them!!!", "unarmed_yes")
+	API.AddText(id, "There you'll find the majestic sword, the magnanimous shield and the skull smasher wand!! Grab them and good luck!!", "unarmed_yes")
     id = "GenericConversation3"
     API.RegisterDialogueId(id)
-    API.AddText(id, "De igual manera te dire... Cómo quisiera volver a la normalidad...", "unarmed_yes")
-    API.AddText(id, "Los enqueleticos nos han invadido, encuentra y mata a cuantos de ellos puedas!!!!")
+    API.AddText(id, "The Skeletons robbed our most treasured object, they killed our people and they take our pride away. We need you guys...", "unarmed_yes")
+    API.AddText(id, "...To go to each one of those temples behind you to grab ultra powerfull guns to kill them!!!", "unarmed_yes")
+	API.AddText(id, "There you'll find the majestic sword, the magnanimous shield and the skull smasher wand!! Grab them and good luck!!", "unarmed_yes")
 
    
 end

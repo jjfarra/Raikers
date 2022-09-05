@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 18039984299850060191
+  Name: "Fantasy Human Guy 1"
+  PlatformAssetType: 17
+  PrimaryAsset {
+    AssetType: "AnimatedMeshAssetRef"
+    AssetId: "npc_human_guy_fantasy_001_ref"
+  }
+}
+Assets {
   Id: 17804522169024937082
   Name: "Stucco Tintable"
   PlatformAssetType: 2

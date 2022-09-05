@@ -1,5 +1,5 @@
 Assets {
-  Id: 579189664487673911
+  Id: 8278542902012117325
   Name: "DialogNPCTriggerClient"
   PlatformAssetType: 3
   TextAsset {

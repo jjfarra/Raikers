@@ -1,5 +1,5 @@
 Assets {
-  Id: 10884120819602357708
+  Id: 11108498355126522554
   Name: "Helper_DialogOptionPanel"
   PlatformAssetType: 5
   TemplateAsset {
@@ -99,7 +99,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4375842347099801341
+            Id: 11553590386246568973
           }
         }
         NetworkRelevanceDistance {
