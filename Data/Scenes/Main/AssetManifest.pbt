@@ -179,6 +179,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15312805567995783140
+  Name: "Fantasy Crossbow Foregrip 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_foregrip_cross_001"
+  }
+}
+Assets {
   Id: 15071749801987622633
   Name: "Japanese Temple Roof 01 - Cap 01 Half"
   PlatformAssetType: 1
@@ -224,6 +233,15 @@ Assets {
   }
 }
 Assets {
+  Id: 14372471564914388161
+  Name: "Fantasy Crossbow Stirrup 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_stirrup_cross_001"
+  }
+}
+Assets {
   Id: 14234410662358785551
   Name: "Decal Moss Patch"
   PlatformAssetType: 14
@@ -239,6 +257,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_lrg_002_gate_topA_mid_ref"
+  }
+}
+Assets {
+  Id: 13888119501670323283
+  Name: "Fantasy Sword Blade 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_blade_sword_004_ref"
   }
 }
 Assets {
@@ -287,6 +314,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13386378558210270594
+  Name: "Fantasy Ability Blue 051"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Ability_Blue_051"
+  }
+}
+Assets {
   Id: 13352930000180731875
   Name: "Japanese Temple Wall Large Roof 01 - Corner 01"
   PlatformAssetType: 1
@@ -311,6 +347,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_hq_test_001"
+  }
+}
+Assets {
+  Id: 12875975218361332960
+  Name: "Fantasy Crossbow Bow 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_bow_cross_001"
   }
 }
 Assets {
@@ -431,6 +476,24 @@ Assets {
   }
 }
 Assets {
+  Id: 10582278170124815413
+  Name: "Fantasy Crossbow 006"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Weapon_Crossbow_006"
+  }
+}
+Assets {
+  Id: 10364179596115918262
+  Name: "Fantasy Shield 001"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Weapon_Shield_001"
+  }
+}
+Assets {
   Id: 10223008057381932438
   Name: "Fantasy Castle Floor 01 4m"
   PlatformAssetType: 1
@@ -455,6 +518,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_foundation_001_end_ref"
+  }
+}
+Assets {
+  Id: 9854914266440959975
+  Name: "Fantasy Sword Grip 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_grip_sword_001"
   }
 }
 Assets {
@@ -629,6 +701,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8174682436388858304
+  Name: "Fantasy Pommel 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_pommel_003"
+  }
+}
+Assets {
   Id: 7900518970950563942
   Name: "Large Wooden Fortress Gate Door Shut Open Close 02 SFX"
   PlatformAssetType: 7
@@ -737,6 +818,33 @@ Assets {
   }
 }
 Assets {
+  Id: 5982043299559036472
+  Name: "Fantasy Sword 017"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Weapon_Sword_017"
+  }
+}
+Assets {
+  Id: 5870959432051636656
+  Name: "Fantasy Mace Head 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_head_mace_002"
+  }
+}
+Assets {
+  Id: 5633575978713831654
+  Name: "Fantasy Shield 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_shield_002"
+  }
+}
+Assets {
   Id: 5633478450180767832
   Name: "Icon Fireball"
   PlatformAssetType: 9
@@ -752,6 +860,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_torii_rope_001_ref"
+  }
+}
+Assets {
+  Id: 5386842465317264650
+  Name: "Fantasy Crossbow Stock 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_stock_cross_001"
   }
 }
 Assets {
@@ -806,6 +923,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_floor_002_4m_corner_001"
+  }
+}
+Assets {
+  Id: 4305627177137124836
+  Name: "Additive Soft Edge"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxma_additive_edgefade"
   }
 }
 Assets {
@@ -872,6 +998,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3337256621200851928
+  Name: "Fantasy Crossbow Bolt 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_bolt_cross_001"
+  }
+}
+Assets {
   Id: 3255814708276840062
   Name: "Cone - Truncated"
   PlatformAssetType: 1
@@ -917,6 +1052,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2494920176024075778
+  Name: "Fire Volume VFX"
+  PlatformAssetType: 8
+  PrimaryAsset {
+    AssetType: "VfxBlueprintAssetRef"
+    AssetId: "fxbp_fire_volume_vfx"
+  }
+}
+Assets {
   Id: 2272343506949074885
   Name: "Icon Wind"
   PlatformAssetType: 9
@@ -944,6 +1088,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2042353230298908149
+  Name: "Fantasy Ability Yellow 024"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Fantasy_Ability_Yellow_024"
+  }
+}
+Assets {
   Id: 2031242999644481785
   Name: "Japanese Temple Roof 01 - Eaves Cap 01 Corner"
   PlatformAssetType: 1
@@ -953,12 +1106,30 @@ Assets {
   }
 }
 Assets {
+  Id: 1920010878601219178
+  Name: "Fantasy Sword Guard 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_guard_sword_001"
+  }
+}
+Assets {
   Id: 1787006895099356648
   Name: "Japanese Temple Wall Ornament 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_orn_01_ref"
+  }
+}
+Assets {
+  Id: 1562290466453296467
+  Name: "Fantasy Crossbow Grip 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_grip_cross_001"
   }
 }
 Assets {
@@ -995,6 +1166,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_jpn_tem_wall_lrg_roof_001_ref"
+  }
+}
+Assets {
+  Id: 412493161198471310
+  Name: "Rock Obsidian 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_fresnel_rock_obsidian_001_uv"
   }
 }
 Assets {

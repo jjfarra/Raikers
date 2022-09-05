@@ -22,7 +22,7 @@ function Dialogs.RegisterDialogue()
     id = "GenericConversation1"
     API.RegisterDialogueId(id)
     API.AddText(id, "Hello fellas! I must warn you of what is comming...", WAVE_ANIMATION)
-    API.AddText(id, "This is The Skelenton's Village, if you gusys enter you must know something important first...")
+    API.AddText(id, "This is The Skeleton's Village, if you guys enter you must know something important first...")
 
     API.AddOption(id, "Tell me.", "GenericConversation2")
     API.AddOption(id, "I don't care!", "GenericConversation3")

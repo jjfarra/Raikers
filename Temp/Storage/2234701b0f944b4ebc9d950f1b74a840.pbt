@@ -6,18 +6,18 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "left_prop"
+          StringVar: "right_prop"
         }
         SimpleValue {
-          StringVar: "05FCF368FB22E521"
+          StringVar: "0000000000000000"
         }
       }
       Entries {
         Key {
-          StringVar: "right_prop"
+          StringVar: "left_prop"
         }
         SimpleValue {
-          StringVar: "D63FB486CBC577CD"
+          StringVar: "8D8140487C095DD6"
         }
       }
     }
